@@ -1,9 +1,14 @@
-## Hi there 👋
+## I'm Jordan!
 
-<!--
-**JWiseman-git/JWiseman-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer specicialising in 
 
-Here are some ideas to get you started:
+### Personal St
+
+### Professional Stack
+(What i'm crafting with at work) 
+
+- Openwebui - opensource llm frontend 
+-  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
