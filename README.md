@@ -1,5 +1,5 @@
 uv > poetry > pip
 
 # Current projects 
-### DockerOptimus 
+### DockerOptimus 🐙
 Lightning fast docker optimisation from the cli.
