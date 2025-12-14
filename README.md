@@ -1,5 +1,13 @@
 uv > poetry > pip
 
+### AI & MLOps Stack
+- LLMs: OpenAI (Azure), HuggingFace
+- Agents: LangGraph, MCP
+- Vector Search: FAISS, Snowflake
+- MLOps: MLflow, PromptFoo, Langfuse
+- Infra: AWS, Docker, Terraform
+
+
 ## 🛠️ Languages and Tools
 
 <br>
