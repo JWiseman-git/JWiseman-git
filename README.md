@@ -46,3 +46,6 @@ uv > poetry > pip
 
 ### DockerOptimus 🐙
 Lightning-fast Docker optimisation from the CLI.
+
+### Learning GO!
+
