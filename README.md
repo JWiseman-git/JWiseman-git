@@ -1,7 +1,4 @@
-uv > poetry > pip
-
 ## Developer Stack
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -47,5 +44,4 @@ uv > poetry > pip
 ### DockerOptimus 🐙
 Lightning-fast Docker optimisation from the CLI.
 
-### Learning GO!
 
