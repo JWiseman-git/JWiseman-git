@@ -28,15 +28,6 @@
 - **MLOps:** MLflow, PromptFoo, Langfuse  
 - **Infrastructure:** AWS, Docker, Terraform  
 
-![OpenAI](https://img.shields.io/badge/OpenAI-Azure%20Hosted-black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-purple)
-![MCP](https://img.shields.io/badge/MCP-Agent%20Protocols-darkgreen)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-green)
-![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue)
-![PromptFoo](https://img.shields.io/badge/PromptFoo-Prompt%20Testing-red)
-![Langfuse](https://img.shields.io/badge/Langfuse-LLM%20Observability-orange)
-
 ---
 
 ## 🚧 Current Projects
