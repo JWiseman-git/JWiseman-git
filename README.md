@@ -29,9 +29,10 @@
 
 ---
 
-## 🚧 Current Projects
+## Current Projects
 
-### DockerOptimus 🐙
+
+### DockerOptimus 
 Lightning-fast Docker optimisation from the CLI.
 
 
