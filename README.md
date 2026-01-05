@@ -17,9 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
 </p>
 
----
-
-### 🧠 AI & MLOps Stack
+### AI & MLOps Stack
 
 - **LLMs:** OpenAI (Azure), HuggingFace  
 - **Agents:** LangGraph, MCP  
