@@ -20,8 +20,8 @@
 
 ### AI & MLOps Stack
 
-- **LLMs:** OpenAI (Azure), HuggingFace  
-- **Agents:** LangGraph, MCP  
+- **LLMs:** OpenAI (Azure), HuggingFace, OpenRouter 
+- **Agents:** LangGraph, MCP, Kilo  
 - **Vector Search:** FAISS, Snowflake  
 - **MLOps:** MLflow, PromptFoo, Langfuse  
 - **Infrastructure:** AWS, Docker, Terraform  
