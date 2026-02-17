@@ -24,14 +24,8 @@
 - **Agents:** LangGraph, MCP, Kilo  
 - **Vector Search:** FAISS, Snowflake  
 - **MLOps:** MLflow, PromptFoo, Langfuse  
+
 - **Infrastructure:** AWS, Docker, Terraform  
 
----
-
-## Current Projects
-
-
-### DockerOptimus 
-Lightning-fast Docker optimisation from the CLI.
 
 
